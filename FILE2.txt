@@ -1,2 +1,2 @@
 Hello
-How are you doing?
+I changed the ssh links by the https one to solve the problem. I can now pull and push w/o any error message
